@@ -1,0 +1,428 @@
+abandon		    vt ทิ้ง ละทิ้ง
+abbreviation	n ย่อ คำย่อ
+abolish 		vt ล้มเลิก ยกเลิก ระงับ
+absent			a ขาด ไม่มา
+abundant		a มากมาย อุดทสมบูรณ์
+accommodate		vt ปรับตัว ให้ความสะดวก
+accomplish		vt ทำสำเร็จ
+addict			a เสพติด
+adhere			vi ติด ยึดมั่น
+adjacent		a ติดกัน
+adorn			vt ตกแต่ง
+adverse	    	a ตรงกันข้าม ในทางลบ
+aesthetic		a,n สวยงาม สุนทรีย์ หลักแห่งความงาม
+affluent		a รั่ารวย
+amplify	    	vt ขยาย
+analysis		n การวิเคราะห์
+anonymous		a ไม่เป็นที่เปิดเผย นิรนาม
+assault	    	v,n เล่นงาน โจมดี ประทุษร้าย จู่โจม
+assembly		n การรวมกลุ่ม การประกอบกัน
+astonishing		a น่าแปลกใจ
+attach			v ติดกัน ทำให้ติดกัน แนบ
+attitude		n ทัศนคติ
+attribute		n คุณลักษณะ
+audacious		a กล้าหาญ
+bankruptcy		n การล้มละลาย
+bargain	    	v,n ต่อรอง การจต่อรอง
+barrier	    	n อุปสรรค สิ่งกีดขวาง
+behalf			n ในนามของ ตัวแทน
+bestow			v ให้ มอบให้
+betray			v ทรยศ หักหลัง
+bilingual		a,n สามารถพูดหรือเขียนได้สองภาษา
+binary			n ฐานสอง ทวิภาค
+bizarre	    	a แปลกประหลาด
+bland			a ขาดรสชาติ ที่ไม่น่าสนใจ จืด
+bombard 		v ถล่ม กระหน่า
+bother			v ทำให้เกิดปัญหา รบกวน
+boycott	    	vt,n ควำบาตร การคว่ำบาตร
+breakthrough	n การค้นพบที่ยิ่งใหญ่
+budget			n งบประมาณ
+bundle			n มัด ห่อ รวมชุด
+candid			a ตรงไปตรงมา
+candidate		n ผู้ท้าชิง ผู้รับสมัครคัดเลือกตั้ง
+cannibalise		v กินเนื้อคน กินกันเอง
+cascade	    	v,n ตกลงมาเหมือนน้ำตก น้ำตก
+centennial		a,n ครบรอบร้อยปี ศตวรรษ
+chronic	    	a ติดเป็นนิสัย เรื้อรัง
+civil			a ที่เกี่ยวกับพลเมือง
+compatible		a เข้ากันได้
+compensation	n การชดเชย ค่าตอบแทน
+conceal		    v ปกปิด
+concede		    v ยอมรับ ยิดยอม
+concur			vi เกิดในเวลาเดียวกัน กระทำร่วมกัน
+condolence		n การแสดงความเสียใจ
+consensus		n ความเป็นเอกฉันท์ การเห็นพ้อง
+contribute		v ช่วยเหลือ สนับสนุน
+convivial		a ที่ชอบสร้างสรรค์ ที่สนุกสนาน
+cosmopolitan	a,n เกี่ยวกับสากลนิยม ทั่วโลก พลเมือง โลก
+credence		n การยอมรับ
+crucial		    a สำคัญมาก เกี่ยวกับความเป็นความตาย
+cumbersome		a ยุ่งยาก เป็นภาระ
+cynical		    a ดูถูก ถากถาง
+debate on		n การโต้วาที โต้วาที
+debt			n หนี้ หนี้สิน
+decentralize	v การจายอำนาจจากจุดศูนย์กลาง
+decline		    v ถดถ้อย เสื่อมลง ปฏิเสธ
+dedicate		v อุทิตัว ถวาย
+default		    n การผิดสัญญา ตัวเลือกอัตโนมัติ
+delicate		a บอบบาง
+denounce		v ประฌาม กล่าวโทษ
+deputy			n ตัวแทน ผู้รักษาการแทน สมาชิกสภาผู้แทน
+determine		v,a กำหนด ตัดสินใจ แน่วแน่
+devastate		v ทำลายล้าง
+devout			a ใจบุญ ศรัทธา
+diminish		v ทำให้ลดลง
+disaster		n หายนะ
+dispatch		v ส่งของ ส่งออกไป
+dosage			n ขนาดยา
+drastic		    a รุนแรงมาก
+dwindle		    v หด ถดถอย
+eager			a กระตือรือร้น
+earnest		    a จริงจัง ตั้งใจจริง
+efficacious		a มีผล ได้ผล
+eject			v ดันออก ขับไล่ ไล่ออก
+election		n องค์ประกอบ
+element		    n องค์ประกอบ
+eligible		a มีคุณสมบัติเหมาะสม
+eliminate		v กำจัด ตัดทิ้ง
+empower		    v ให้อำนาจ มอบอำนาจ
+embark	(for)	v เอาลงเรือ ขึ้นเครื่อง
+empathy		    n ความรู้สึกร่วม อารมณ์ร่วม
+emphasize		v เน้น ให้ความสำคัญ
+enact			vt ออกกฏหมาย
+endowment		n การบริจาค ความสามารถ
+equilibrium		n ความสมดุล ความเท่าเทียม
+expedite		vt เร่ง กระตุ้น
+expense			n ค่าใช้จ่าย
+exploit			vt ใช้ประโยชน์ หาประโยชน์ใส่ตัว
+exposure		n การเปิดรับ การเปิดช่องรับแสง
+extinct			a สูญพันธุ์
+extraordinary	a พิเศษ เกินธรรมดา
+facade			n ส่วนหน้า ลักษณะภายนอก ด้านหน้าอาคาร
+fallacious		a หลอกลวง ผิดพลาด
+famine			n ความอดอยาก ความขาดแคลน
+feasible		a เป็นไปได้ กระทำได้
+feast			n งานเลี้ยงฉลอง
+feature			vt,n แสดงลักษณะ ทำให้เด่น ลักษณะเฉพาะ
+fictitious		a ลวง ไม่จริง
+flamboyant		a หรูหรา ฉูดฉาด มีสีสัน
+fluctuate		vi ผันผวน ขึ้นๆลงๆ
+forensic		a เกี่ยวกับกฏหมาย เกี่ยวกับการโต้แย้ง ถกเถียง
+fragile			a บอบบาง แตกง่าย
+fraudulent		a หลอกลวง ฉ้อโกง
+frustrate		vi ทำให้ท้อแท้ ทำให้ผิดหวัง
+former			a ก่อน สมัยก่อน เมื่อก่อน
+foster			vt เลี้ยง อุปถัมภ์ สนับสนุน
+fundamental		a ซึ่งเป็นรากฐาน
+gain			vt,n ได้มา ได้รับ ผลกำไร ผลประโยชน์
+gambling		n การพนัน
+garnish			n,v,a ประดับ ตกแต่ง
+gather			v รวบรวม ชุมนุม
+generous		a ใจกว้าง เอื้อเฟื้อ
+genuine			a ของแท้ แท้จริง
+geographical	a เกี่ยวกับภูมิศาสตร์ ทางภูมิศาสตร์
+glance			vi,vt,n ชำเลือง การชำเลืองมอง
+glide			vi,n เลื่อนไหล การร่อน
+gluttonous		a ตะกละ
+grandeur		n ควาโอ่อ่า ความสง่างาม
+grant			vt อนุญาติ ยอมให้
+gratification	n ความปลื้มปิติ ความพึงพอใจ
+gratitude		n ความรู้สึกขอบคุณ ความกตัญญู
+gravity			n แรงโน้มถ่วง
+guarantee		vt,n รับประกัน การรับประกัน ใบรับประกัน
+habitant		n ผู้พักอาศัย
+habitat			n ที่อยู่อาศัย
+hail			vt,n ร้องทัก ทักทาย
+halt			v หยุด ชะงัก
+hamper			v แทรกแซง
+haphazard		a โดยบังเอิญ ไม่ได้ตั้งใจ
+harmony			n ความสามัคคี ความกลมเกลียว
+harness			n,v บังเหียน ควบคุม
+harsh			a หยาบ กระด้าง
+harass			vt รังควาญ ก่อกวน คุกคาม
+haul			vt,n ดึง ลาก ลำเอียง
+hazardous		a เสี่ยงอันตราย ซึ่งเป็นอันตราย
+hedonism		n สุขนิยม
+hilarious		a ตลกขบขัน เฮฮา
+hinder			vi,vt กีดกั้น ขัดขวาง
+homonym			n คำพ้องรูป คำพ้องเสียง
+hostage			n ตัวประกัน
+humiliate		vt ทำให้ขายหน้า
+hypocrite		n คนเสแสร้ง คนหลอกลวง
+hypothesis		n สมมุติฐาน
+identical		a เหมือนกัน ตรงกัน
+idle			a เกียจคร้าน ไม่ได้ใช้งาน
+idol			n บุคคลที่ผู้คนชื่นชม รูปบูชา
+ignore			v ละเลย  ไม่สนใจ
+illegal			a ผิดกฏหมาย
+illogical		a ไร้เหตุผล ไม่สมเหตุผล
+illuminate		v ทำให้สว่างขึ้น
+illusion		n ภาพลวงตา
+illustrate		v อธิบาย ยกตัวอย่าง
+imitate			v เลียนแบบ ทำตามอย่าง
+imminent		a จวนตัว ฉุกละหุก
+impatient		a ไม่อดทน
+implement		vt นำไปปฏิบัติ ดำเนินการ
+implicate		vt เกี่ยวพันกับ เกี่ยวข้องกับ
+implicit		a บอกเป็นนัย
+incumbent on	a,n ซึ่งมีหน้าที่ ผู้ดำรงตำแหน่ง
+induce			vt ชักชวน
+induction		n การอุปนัย การเหนี่ยวนำ
+inevitable		a ซึ่งหลีกเลี่ยงไม่ได้
+infinite		a ไม่สิ้นสุด
+inhibit			vt ยับยั้ง ระงับ
+innovative		a นวัตกรรม การคิดขึ้นใหม่
+integral		a ครบถ้วน สมบูรณ์
+intimate		a คุ้นเคย ใกล้ชิด สนิทสนม
+intimidate		vt ทำให้กลัว ข่มขู่
+interdependent	a พึ่งพาอาศัยกัน
+interim			a,n ระหว่างกาล ระหว่างเวลา ชั่วคราว
+intermediate	a,n ระหว่างกลาง ขั้นกลาง
+intern			n คนฝึกงาน
+internal		a ภายใน
+intervene		vi,vt แทรกแซง ก้าวก่าย
+intrude			vt บุกรุก
+intoxicate		vt ทำให้มึนเมา ทำให้ร่าเริง
+inventory		n สินค้าคงเหลือ สิ้นค้าคงคลัง
+invincible		a ซึ่งไม่อาจเอาชนะ ทำลายไม่ได้
+invisible		a วึ่งมองไม่เห็น
+itinerary		n กำหนดการเดินทาง แฟนการเดินทาง
+jargon			n ภาษาเฉพาะอาชีพ ภาษาเฉพาะกลุ่ม
+jealousy		n ความอิจฉาริษยา
+jeopardy		n อันตราย
+jolly			a ร่าเริง สนุก
+journal			n วารสาร
+judicious		a สุขุมรอบคอบ มีเหตุผล
+judgement		n การพิจารณา การตัดสิน
+jurisdiction	n อำนาจในการตัดสินคดี อำนาจศาล
+jury			n คณะลูกขุน
+jumble			v หยุ่งเหยิง ปนเป
+justify			vt อธิบาย ให้เหตุผล จัดขอบ
+juvenile		vt เกี่ยวกับเด็กและเยาวชน
+kaleidoscopic	a เกี่ยวกับภาพลานตา
+keen			a กระตือรือร้น จดจ่อ
+kettle			n การต้มน้ำ
+kindergarten	n โรงเรียนอนุบาล
+kindle			v จุดไฟ กระตุ้น เร้าอารมณ์
+label			n ฉลาก ป้าย
+labyrinth		n เขาวงกต ความยุ่งยาก
+lack			n ขาดแคลน ไม่เพียงพอ
+laggard			n,a เชื่องช้า คนล้าหลัง
+landscape		n ภูมิประเทศ
+latent			a แอบแฝง ซ่อนเร้น
+lavish			a ฟุ่มเฟือย ฟุ้งเฟ้อ
+legendary		a ซึ่งเป็นตำนาน
+lessen			vi,vt ลดลง บรรเทา
+linear			a เป็นเส้นตรง
+litigation		n การฟ้องร้อง การดำเนินคดี
+longevity		n อายุยืน ความยั่งยืน
+lucrative		a มีกำไร รำ่รวย
+lumber			vt,n กองระเกะระกะ เลื่อยไม้ เศษไม้
+luminous with	a เปล่งแสง แจ่มแจ้ง
+luster			vi,vt,n เป็นมันเงา ฉาบเงา ความรุ่งโรจน์
+macho			a มีความเป็นลูกผู้ชาย
+magnificent		a โอ่อ่า สง่างาม ใหญ่โต
+majority		n ส่วนใหญ่
+malady			n ความเจ็บป่วย โรคภัย
+malicious		a มุ่งร้าย ประสงค์ร้าย
+mandatory		a เกี่ยวกับคำสั่ง จำเป็น
+manoeuvre		n การซ้อมรบ แผนการ กลยุทธ์
+manifesto		n การแถลงการณ์
+manual			a,n ซึ่งทำด้วยมือ คู่มือ
+masterpiece		n ผลงานชิ้นเอก
+medical			a ทางการแพทย์
+merchandise		n สิ้นค้า
+merely			ad เป็นเพียง เท่านั้น
+mesmerise		vt สะกดจิต ทำให้ตกตะลึง
+minister		n รัฐมนตรี
+minuscule		a เล็กมาก จิ๋ว
+mischievous		a เป็นอันตราย ซน
+miserable		a ทุกข์ยาก น่าสังเวช
+monarchy		n สมบูรณาญาสิทธิราชย์
+nausea			n อาการคลื่นไส้ ความเกลียดชัง
+navigate		vi,vt นำทาง เดินเรือ
+negate			vt ปฏิเสธ ลบล้าง
+neglect			vt ละเลยไม่สนใจ
+negotiate		vi,vt เจรจา ต่อรอง
+nocturnal		a เกิดในเวลากลางคืน ออกหากินเวลากลางคืน
+nostalgia		n ความคุ้นเคยในอดีต โรคคิดถึงบ้าน
+notion			n ความคิดเห็น ความเชือ
+notorious		a มีชื่อเสียงในทางไม่ดี ความเชื่อ
+novice			n ผู้เริ่มต้น ผู้เริ่มหัด สามเณร
+numeric			a เปนตัวเลข
+obese			a อ้วนเกิน
+obey			vi,vt เชื่อฟัง
+obligate		vt ผูกมัด เป็นภาระ
+oblivious		a ลืมเลือน ไม่คำนึงถึง
+obscure			a,vt คลุมเคลือ ปิดปัง
+obsession		n ความหลงไหล ความคิดครอบงำ
+obsolete		a ล้าสมัย
+obvious			a ชัดเจน
+odor			n กลิ่น
+offensive		a ก้าวร้าว น่ารังเกียจ
+oppose			vi,vt ต่อต้าน คัดค้าน
+opulent			a มั่งคั่ง อุดมสมบูรณ์
+orbit			vi,vt,n โคจร วงโคจร ขอบเขต
+ordinary		a ธรรมดา สามัญ
+ornament		vt,n ประดับ ตกแต่ง เครื่องประดับ
+outrageous		a ซึ่งฝ่าฝืน ระราน
+outskirt		n รอบนอก ชานเมือง
+oversee			vt ตรวจตรา ดูแล
+overtake		vi,vt ตามทัน ไล่ทัน
+overwhelm		vt ทำให้รู้สึกท่วมท้น ครอบงำ
+pace			vi,n ก้าวเดิน อัตราเดิน
+pamper			vt เอาใจ ตามใจ
+panic			a,n ตกใจกลัว หวาดกลัว ความตื่นตกใจ
+paradox			n คำพูดที่แย้งกัน
+paraphrase		vt,n แปลความ การถอดความ
+parody			vt,n ล้อเลียน การเขียนล้อเลียน
+partial			a บางส่วน
+passive			a เฉื่อย อยู่เฉยๆ ซึ่งถูกกระทำ
+patronage		n การอุปถัมภ์ การอุดหนุน
+peculiar		a แปลก ประหลาด
+penetrate		vt แทรกซึม เจาะทะลุ
+perceive		vt รับรู้ สำเหนียก
+perpetual		a ตลอดไป ตลอดกาล
+persuade		vt ชักชวน
+peruse			vt อ่าน ตรวจ อย่างพินิจพิจารณา
+pesticide		n ยาฆ่าแมลง
+petition		vt,n ร้องเรียน คำร้อง
+phenomenon		n ปรากฏการณ์
+phrase			n วลี โวหาร
+plausible		a เป็นไปได้ มีเหตุผล
+ponder			vt ครุ่นคิด ใคร่ครวญ
+portray			vt วาดภาพ พรรณนา
+postpone		vt เลื่อนเวลาออกไป
+posture			n มาด ท่าทาง ทัศนคติ
+predator		n ผู้ล่า สัตว์ที่จับวัตว์อื่นเป็นอาหาร
+prelude			vt,n โหมโรง การแสดงนำ
+prerogative		n สิทธิพิเศษ อภิสิทธิ์
+prestige		n ชื่อเสียง เกียรติยศ
+prevalent		a แพร่หลาย พบได้บ่อยๆ
+procedure		n ขั้นตอนกระบวนการ
+prolong			vt ยืดออกไป ขยายเวลา
+proportion		n สัดส่วน
+provoke			vt ยั่วยุ ทำให้โกรธ ก่อกวน
+proximity		n ความใกล้ชิด ความใกล้เคียง
+psychiatric		a เกี่ยวกับจิตวิทยา
+punctual		a ตรงเวลา
+pursue			vi,vt ไล่ตาม ทำให้ลุล่วง ดำเนินการ
+quaint			a ประหลาด น่าพิศวง มีเสน่แบบโบราณ น่าดึงดูดแบบแปลกๆ ฉลาด 
+quake			vi,n สั่นไหว กระเทือน แผ่นดินไหว
+quarrel with	vi,n ไม่ลรอยกัน การทะเลากัน ข้อโต้แย้งที่รุนแรง
+quarterly		a,ad ทุกสามเดือน ครั้งละสามเดือน
+quench			vt ดับ ระงับ
+query			n คำถาม ข้อสงสัย
+quest			vi,vt,n ค้นหา การสำรวจ
+quicksilver		n  ปรอท
+quotation		n สิ่งที่อ้างอิง ราคาปัจจุบัน ใบเสนอราคา
+radiant			a แจ่มใส ส่องสว่าง
+random			a โดยการสุ่ม ซุ่งไม่มีแบบแผน
+rebelión		n การกบฏ การจลาจล การก่อนการจลาจล
+receipt			n ใบเสรจรับเงิน ใบรับ
+reception		n การต้อนรับ การรับรอง
+reconcile		vt,n ประนีประนอม ไกล่เกลี่ย กระทบยอด
+recruit			vi,vt,n สมาชิกใหม่ รับคนใหม่ จ้างคนใหม่
+recur			vi เกิดขึ้นอีก
+redeem			vt ซื้อคืน ไถ่ถอน
+regulate		vt ความคุม วางระเบียบ
+rehearsal		n การซ้อม
+reimburse		vt ชำระเงินคืน ชดใช้
+reinforce		vt เสริมกำลัง สนับสนุน
+reliable		a วางใจได้ เชื่อถือได้
+remarkable		a น่าทึ่ง โดดเด่น
+renown			n ชื่อเสียง กิตติศัพท์
+repetitive		a เกิดซ้ำๆ
+reputation		n ชื่อเสียง ความโด่งดัง
+requisite		a,n จำเป็น ปัจจัย
+residual		a,n ซึ่งเหลืออยู่ สิ่งที่เหลืออยู่
+resolution		n การลงมติ การแก้ปัญหา ปณิธาน
+retrieve		vt ให้กลับคืนมา คืนสภาพ กอบกู้
+revamp			vt,n ซ่อมแซม ปรับปรุง การปรับปรุงใหม่
+rigid			a แข็ง ไม่ยืดหยุ่น เข้มงวด
+rudimentary		a เป็นพื้นฐาน เบื้องต้น
+rumble			vi,n ส่งเสียงดัง เสียงกระหึ่ม
+rumor			n ข่าวลือ
+rural			a ในชนบท แบบชนบท
+sabotage		vt,n ก่อวินาศกรม ทำลาย การบ่อนทำลาย
+salvage			vt,n กอบกู้ การกู้ภัย ซากทรัพย์(ในทางธุรกิจ)
+sanction		vt,n ยอมให้ อนุมติ ลงโทษ การอนุมัติ การลงโทษ
+saturate		vt ทำให้อิ่มตัว
+scarce			a ขาดแคลน
+scrutinise		vi,vt พินิจพิเคราะห์ ตรวจสอบอย่างละเอียด
+seamless 		a ไม่มีรอยต่อ ไม่มีตะเข็บ
+seize			vt ยึด จับกุม ฉกฉวย ครอบงำ
+sequential		a ต่อเนื่องกัน เป็นลำดับ
+shiver			vi,n สั่น สั่นเทา การตัวสั่น
+simplify		vt ทำให้ง่ายขึ้น ทำให้เข้าใจง่าย
+simultaneous	a พร้อมกัน ในเวลาเดียวกัน
+sober			a มีสติ ไม่เมา
+sovereign		a,n สูงสุด กษัตริย์ ผู้มีอำนาจสูงสุดของประเทศ
+stagnant		a หยุดนิ่ง เฉื่อยชา ซึมเซา
+static			a อยู่กัยที่ อยู่นิ่ง สถิต
+statistic		a,n ซึ่งเป็นสถิติ สถิติ
+stroke			n การเกิดขึ้นกระทันหัน ระยะชัก การขึ้นลงของลูกสูบ
+struggle		vi,n ดิ้นรน ต่อสู้ ความพยายาม
+stubborn		a ดื้อรั้น หัวรั้น
+susceptible		a อ่อนแอ รู้สึกไว อ่อนไหวง่าย
+suspend			vt พักไว้ ระงับ แขวน ยกเลิกชั่วคราว
+sway			vi,vt แกว่งไปมา
+sympathy		n ความเห็นอกเห็นใจ ความสงสาร
+synchronise		vi,vt เกิดขึ้นในเวลาเดียวกัน ทำใหม้พร้อมกัน
+synopsis		n การสรุปความ เรื่องย่อ สาระสำคัญ
+tangible		n จับต้องได้ สัมผัสได้
+taunt			vt,n เหน๊บแนม การพูดเสียดสี
+tedious			a น่าเบื่อ
+temporary		a ชั่วคราว
+tenant			n ผู้เช่า
+tentative		a เบื้องต้น ชั่วคราว ยังไม่แน่นอน
+thermal			a ร้อน เกี่ยวกับความร้อน
+thrive			vi,vt เจริญ เติบโต ก้าวหน้า งอกงาม
+tolerant		a อดทน ทนทาน ยอมให้
+toxic			a เป็นพิษ มีพิษ
+tranquil		a สงบ ราบรื่น
+transparent		a โปร่งใส
+tremendous		a ใหญ่โต
+tribute			n คำสรรเสริญ เครื่องบรรณาการ
+triumph			n ชัยชนะ
+trivial			a ไม่สำคัญ ไม่เป็นสาระ
+turbulence		n ความวุ่นวาย ความปั่นป่วน ความอลหม่าน
+turmoil			n ความยุ่งเหยิง ความสับสนอลหม่าน
+vacant			a ว่าง ไม่ได้ใช้งาน
+vague			a คลุมเคลือ ไม่ชัดเจน
+vain			a ไร้ประโยชน์ ไม่มีสาระ ทะนงตัว ถือตัว
+valid			a มีเหตุผล สมเหตุผล ถูกต้อง
+vanish			vt หายไป อันตรธาน
+variable		a,n เปลี่ยนแปลงได้ ตัวแปร
+vast			a ใหญ่โต กว้างขว้าง
+venturesome		a กล้าเสี่ยง เสี่ยงภัย
+venue			n สถานที่ชุมนุม สถานที่เกิดเหตุ
+verbal			a ด้วยวาจาใช้คำพูด
+verify			vt ตรวจสอบ พิสูจน์
+versatile		a มีประโยชน์หลายอย่าง เอนกประสงค์
+vessel			n เรือ ท่อ ภาชนะ
+vicinity		n ความใกล้เคียง
+vigilance		n ความระมัดระวัง ความเอาใจใส่
+vigorous		a แข็งแรง กระฉับกระเฉง
+vital			a เกี่ยวกับชีวิต ความเป็นความตาย
+vivid			a เจิดจ้า สดใส
+vogue			n แฟชั่น สมัยนิยม
+volatile		a ระเหยง่าย เปลี่ยนแปลงได้ง่าย
+vomit			vi,vt,n อาเจียน
+wage			n ค่าจ้าง ค่าแรงงงาน
+waive			vt สละ ละทิ้ง
+wander			vt ท่องเที่ยว เตร๊ดเตร่
+weary			a เหนื่อยอ่อน เพลีย
+welfare			n สวัสดิการ
+whimsical		a แปลกประหลาด ชอบกล เพ้อฝัน
+withdraw		vt ถอน
+withhold		vi,vt ระงับ หักไว้
+wither			vi,vt เหี่ยวแห้ง เหี่ยวเฉา ร่วงโรย
+witty			a ฉลาด หลักแหลม
+wonder			vi,vt,n ประหลาดใจ สงสัย ความประหลาดใจ ความพิศวง
+wound			n บาดแผล
+wrinkle			n รอยย่น รอยยับ
+yearn			vi อยากได้ ปรารถนา
+yield			vi,n ยอม ให้ผลผลิต การยินยอม ผลผลิต ผลตอบแทน
+zealous			a กระตือรือร้นมากเกินไป ขยันขันแข็ง 
+zenith			n จุดสูงสุด จุดสุดยอด
