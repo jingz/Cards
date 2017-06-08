@@ -1,129 +1,129 @@
-abandon		    vt ทิ้ง ละทิ้ง
-abbreviation	n ย่อ คำย่อ
-abolish 		vt ล้มเลิก ยกเลิก ระงับ
-absent			a ขาด ไม่มา
-abundant		a มากมาย อุดทสมบูรณ์
-accommodate		vt ปรับตัว ให้ความสะดวก
+abandon		    	vt ทิ้ง ละทิ้ง n การปลดปล่อย
+abbreviation		n การย่อ คำย่อ
+abolish 		vt ล้มเลิก ยกเลิก ระงับ 
+absent			a ขาด ไม่มา ไม่เข้าร่วม
+abundant		a มากมาย อุดทสมบูรณ์ เหลือเฟือ
+accommodate		vt จัดที่อยู่ให้ ปรับตัว ให้ความสะดวก vi ปรับโฟกัสของสายตา
 accomplish		vt ทำสำเร็จ
-addict			a เสพติด
-adhere			vi ติด ยึดมั่น
-adjacent		a ติดกัน
-adorn			vt ตกแต่ง
+addict			a เสพติด n ผู้ติดยาเสพติด
+adhere			vi ติด ยึดมั่น อยู่ติดกัน แนบติด
+adjacent		a ติดกัน ข้างเคียง ประกบ
+adorn			vt ตกแต่ง ประดิดประดอย ประดับประดา
 adverse	    	a ตรงกันข้าม ในทางลบ
-aesthetic		a,n สวยงาม สุนทรีย์ หลักแห่งความงาม
-affluent		a รั่ารวย
-amplify	    	vt ขยาย
+aesthetic		a สวยงาม สุนทรีย์ n หลักแห่งความงาม
+affluent		a รั่ารวย n. ผู้ที่ร่ำรวย ผู้ที่มั่งคั่ง
+amplify	    	vt ขยาย ทำให้เพิ่มขึ้น พูดหรือเขียนโดยละเอียด
 analysis		n การวิเคราะห์
 anonymous		a ไม่เป็นที่เปิดเผย นิรนาม
-assault	    	v,n เล่นงาน โจมดี ประทุษร้าย จู่โจม
+assault	    	v,n เล่นงาน โจมดี ประทุษร้าย จู่โจม การข่มขืน
 assembly		n การรวมกลุ่ม การประกอบกัน
-astonishing		a น่าแปลกใจ
-attach			v ติดกัน ทำให้ติดกัน แนบ
-attitude		n ทัศนคติ
-attribute		n คุณลักษณะ
-audacious		a กล้าหาญ
+astonishing		a น่าแปลกใจ น่าประหลาดใจ
+attach			v ติดกัน ทำให้ติดกัน แนบ vt. มีความผูกพันกับ
+attitude		n ทัศนคติ ลักษณะท่าทาง
+attribute, attribute [sth] to		n คุณลักษณะ vt. ถือว่า ให้เหตุผลว่าเป็น
+audacious = fearless brave		a กล้าหาญ
 bankruptcy		n การล้มละลาย
-bargain	    	v,n ต่อรอง การจต่อรอง
-barrier	    	n อุปสรรค สิ่งกีดขวาง
-behalf			n ในนามของ ตัวแทน
-bestow			v ให้ มอบให้
-betray			v ทรยศ หักหลัง
+bargain	    	v,n ต่อรอง การเจรจาต่อรอง ข้อตกลงทางการค้า
+barrier	= obstacle, hindrance    	n อุปสรรค สิ่งกีดขวาง
+behalf of / on so’s behalf 		n ในนามของ ตัวแทน
+bestow	on		v ให้ มอบให้ มอบของขวัญ
+betray			v ทรยศ หักหลัง ทำให้ผิดหวัง เนรคุณ เปิดเผยความลับ
 bilingual		a,n สามารถพูดหรือเขียนได้สองภาษา
 binary			n ฐานสอง ทวิภาค
-bizarre	    	a แปลกประหลาด
-bland			a ขาดรสชาติ ที่ไม่น่าสนใจ จืด
-bombard 		v ถล่ม กระหน่า
-bother			v ทำให้เกิดปัญหา รบกวน
+bizarre	= weird    	a แปลกประหลาด
+bland			a ขาดรสชาติ ที่ไม่น่าสนใจ จืด นิ่มนวล อ่อนโยน ไม่ระคายเคือง
+bombard with		v ถล่ม กระหน่า
+bother with = trouble	v ทำให้เกิดปัญหา รบกวน n. ตัวก่อปัญหา การรบกวน
 boycott	    	vt,n ควำบาตร การคว่ำบาตร
 breakthrough	n การค้นพบที่ยิ่งใหญ่
-budget			n งบประมาณ
+budget			n งบประมาณ vt ทำงบประมาณ
 bundle			n มัด ห่อ รวมชุด
-candid			a ตรงไปตรงมา
+candid			a ตรงไปตรงมา ซื้อสัตย์
 candidate		n ผู้ท้าชิง ผู้รับสมัครคัดเลือกตั้ง
 cannibalise		v กินเนื้อคน กินกันเอง
-cascade	    	v,n ตกลงมาเหมือนน้ำตก น้ำตก
-centennial		a,n ครบรอบร้อยปี ศตวรรษ
+cascade	    	v,n ตกลงมาเหมือนน้ำตก น้ำตก vi ต่อเนื่องเป็นขั้นบันได
+centennial = centenary		a,n การครบรอบร้อยปี ศตวรรษ
 chronic	    	a ติดเป็นนิสัย เรื้อรัง
-civil			a ที่เกี่ยวกับพลเมือง
-compatible		a เข้ากันได้
+civil			a ที่เกี่ยวกับพลเมือง ที่มีวัฒนธรรม
+compatible with		a เข้ากันได้ ที่ทำงานร่วมกันได้
 compensation	n การชดเชย ค่าตอบแทน
-conceal		    v ปกปิด
-concede		    v ยอมรับ ยิดยอม
-concur			vi เกิดในเวลาเดียวกัน กระทำร่วมกัน
-condolence		n การแสดงความเสียใจ
-consensus		n ความเป็นเอกฉันท์ การเห็นพ้อง
-contribute		v ช่วยเหลือ สนับสนุน
-convivial		a ที่ชอบสร้างสรรค์ ที่สนุกสนาน
-cosmopolitan	a,n เกี่ยวกับสากลนิยม ทั่วโลก พลเมือง โลก
-credence		n การยอมรับ
-crucial		    a สำคัญมาก เกี่ยวกับความเป็นความตาย
-cumbersome		a ยุ่งยาก เป็นภาระ
-cynical		    a ดูถูก ถากถาง
+conceal	= hide, disguise	    v ปกปิด ซ่อน
+concede		    v ยอมรับ ยิดยอม ยอมอ่อนข้อให้
+concur with		vi เกิดในเวลาเดียวกัน กระทำร่วมกัน
+condolence 		n การแสดงความเสียใจ
+consensus		n ความเป็นเอกฉันท์ การเห็นพ้อง ความคิดเห็นของคนส่วนใหญ่
+contribute sth toward		v ช่วยเหลือ สนับสนุน
+convivial / * person = friendly and cheerful		a ที่ชอบสร้างสรรค์ ที่สนุกสนาน
+cosmopolitan	a เกี่ยวกับสากลนิยม ประกอบด้วยหลากหลายชาติ n. บุคคลที่เดินทางไปทั่วโลก
+credence		n การยอมรับ ความเชื่อถือว่าจริง
+crucial	[to]	    a สำคัญมาก เกี่ยวกับความเป็นความตาย
+cumbersome		a ยุ่งยาก เป็นภาระ อุ้ยอ้าย ไม่สะดวก
+cynical		    a ดูถูก ถากถาง เยอะเย้ย
 debate on		n การโต้วาที โต้วาที
 debt			n หนี้ หนี้สิน
-decentralize	v การจายอำนาจจากจุดศูนย์กลาง
-decline		    v ถดถ้อย เสื่อมลง ปฏิเสธ
-dedicate		v อุทิตัว ถวาย
-default		    n การผิดสัญญา ตัวเลือกอัตโนมัติ
-delicate		a บอบบาง
-denounce		v ประฌาม กล่าวโทษ
+decentralize	v กระจายอำนาจจากจุดศูนย์กลาง
+decline		    v ถดถ้อย เสื่อมลง ปฏิเสธ n. ภาวะตกต่ำ
+dedicate [sth to]		v อุทิตัว ถวาย
+default		    n การผิดสัญญา การเพิกเฉย การละเลย ตัวเลือกอัตโนมัติ
+delicate		a บอบบาง ละเอียตอ่อน ประณีต
+denounce		v ประฌาม กล่าวโทษ บอกเลิก ล้มเลิก
 deputy			n ตัวแทน ผู้รักษาการแทน สมาชิกสภาผู้แทน
 determine		v,a กำหนด ตัดสินใจ แน่วแน่
 devastate		v ทำลายล้าง
-devout			a ใจบุญ ศรัทธา
+devout			a ใจบุญ ศรัทธา ซึ่งมีใจศรัทธา
 diminish		v ทำให้ลดลง
-disaster		n หายนะ
-dispatch		v ส่งของ ส่งออกไป
-dosage			n ขนาดยา
-drastic		    a รุนแรงมาก
-dwindle		    v หด ถดถอย
-eager			a กระตือรือร้น
-earnest		    a จริงจัง ตั้งใจจริง
-efficacious		a มีผล ได้ผล
-eject			v ดันออก ขับไล่ ไล่ออก
-election		n องค์ประกอบ
-element		    n องค์ประกอบ
-eligible		a มีคุณสมบัติเหมาะสม
-eliminate		v กำจัด ตัดทิ้ง
-empower		    v ให้อำนาจ มอบอำนาจ
+disaster		n หายนะ ความพินาศ ความโชคร้าย
+dispatch = forward, transmit		v ส่งของ ส่งออกไป n. การส่งสิ่งของ การส่งคนออกไป
+dosage, a # of		n ขนาดยา ปริมาณยาที่ใช้ต่อหนึ่งครั้ง
+drastic = radical, severe		    a รุนแรงมาก
+dwindle = shrink, diminish		    v หด ถดถอย หดตัว
+eager for = avid			a กระตือรือร้น ทะเยอทะยาน
+earnest	= determined, sincere	    a จริงจัง ตั้งใจจริง เอาจริงเอาจัง แรงกล้า
+efficacious		a มีผล ได้ผล ซึ่งให้ผลตามต้องการ(เกี่ยวกะการรักษา)
+eject from		v ดันออกมา ขับไล่ ไล่ออก
+election		n การเลือกตั้ง การคัดเลือก
+element		    n องค์ประกอบ สภาพที่เป็นธรรมชาติ
+eligible [for / to do sth] = qualified		a มีคุณสมบัติเหมาะสม ซึ่งมีสิทธิเข้ารับเลือก
+eliminate		v กำจัด ตัดทิ้ง ขจัด
+empower		    v ให้อำนาจ มอบอำนาจ ทำให้แข็งแรงขึ้น
 embark	(for)	v เอาลงเรือ ขึ้นเครื่อง
-empathy		    n ความรู้สึกร่วม อารมณ์ร่วม
+empathy		    n ความสามารถในการเข้าในความรู้สึกของผู้อื่น
 emphasize		v เน้น ให้ความสำคัญ
-enact			vt ออกกฏหมาย
+enact			vt ออกกฏหมาย ประกาศใช้ แสดงออก
 endowment		n การบริจาค ความสามารถ
-equilibrium		n ความสมดุล ความเท่าเทียม
-expedite		vt เร่ง กระตุ้น
+equilibrium		n ความสมดุล ความเท่าเทียม ความสงบของจิตใจ
+expedite = hasten		vt เร่ง กระตุ้น จัดการให้เร็วขึ้น
 expense			n ค่าใช้จ่าย
 exploit			vt ใช้ประโยชน์ หาประโยชน์ใส่ตัว
-exposure		n การเปิดรับ การเปิดช่องรับแสง
+exposure = disclosure		n การเปิดรับ การเปิดช่องรับแสง
 extinct			a สูญพันธุ์
 extraordinary	a พิเศษ เกินธรรมดา
 facade			n ส่วนหน้า ลักษณะภายนอก ด้านหน้าอาคาร
-fallacious		a หลอกลวง ผิดพลาด
-famine			n ความอดอยาก ความขาดแคลน
+fallacious		a หลอกลวง ผิดพลาด ซึ่งคิดไม่ถูกต้อง
+famine			n ความอดอยาก ความขาดแคลน ภาวะข้าวยากหมากแพง
 feasible		a เป็นไปได้ กระทำได้
 feast			n งานเลี้ยงฉลอง
 feature			vt,n แสดงลักษณะ ทำให้เด่น ลักษณะเฉพาะ
-fictitious		a ลวง ไม่จริง
+fictitious		a ลวง ไม่จริง ซึ่งแต่งขึ้นมา
 flamboyant		a หรูหรา ฉูดฉาด มีสีสัน
 fluctuate		vi ผันผวน ขึ้นๆลงๆ
 forensic		a เกี่ยวกับกฏหมาย เกี่ยวกับการโต้แย้ง ถกเถียง
 fragile			a บอบบาง แตกง่าย
-fraudulent		a หลอกลวง ฉ้อโกง
-frustrate		vi ทำให้ท้อแท้ ทำให้ผิดหวัง
-former			a ก่อน สมัยก่อน เมื่อก่อน
-foster			vt เลี้ยง อุปถัมภ์ สนับสนุน
+fraudulent = deceitful		a ซึ่งหลอกลวง ซึ่งฉ้อโกง
+frustrate		vi ทำให้ท้อแท้ ทำให้ผิดหวัง ทำให้หมดความอดทน
+former = prior		a ก่อน สมัยก่อน เมื่อก่อน
+foster			vt เลี้ยงดูเด็ก ดูแล อุปถัมภ์ สนับสนุน ให้กำลังใจ
 fundamental		a ซึ่งเป็นรากฐาน
 gain			vt,n ได้มา ได้รับ ผลกำไร ผลประโยชน์
 gambling		n การพนัน
-garnish			n,v,a ประดับ ตกแต่ง
+garnish = embellish			n,v,a ประดับ ตกแต่ง
 gather			v รวบรวม ชุมนุม
-generous		a ใจกว้าง เอื้อเฟื้อ
+generous		a ใจกว้าง เอื้อเฟื้อ ใจดีมีเมตตา
 genuine			a ของแท้ แท้จริง
 geographical	a เกี่ยวกับภูมิศาสตร์ ทางภูมิศาสตร์
 glance			vi,vt,n ชำเลือง การชำเลืองมอง
-glide			vi,n เลื่อนไหล การร่อน
-gluttonous		a ตะกละ
+glide			vi,n ลื่นไถล เลื่อนไหล การร่อน
+gluttonous		a ตะกละ ไม่รู้จักอิ่ม ไม่รู้จักพอ
 grandeur		n ควาโอ่อ่า ความสง่างาม
 grant			vt อนุญาติ ยอมให้
 gratification	n ความปลื้มปิติ ความพึงพอใจ
