@@ -1,12 +1,7 @@
-IELTS
+Cards
 =====
 
-IELTS for Thai who wants to take IELTS
+Memorize what I learn.
 
 
-## Includes
-- Word list
-- Vocabuary for writing
-
-
-It's designed to import to [Anki](https://apps.ankiweb.net/).
+It's designed for import to [Anki](https://apps.ankiweb.net/).
